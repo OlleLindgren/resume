@@ -1,2 +1,4 @@
 # Resume
-Nice seeing you here! Not sure why anyone would really look at this readme but now that you're here I might as well tell you that this repo consists of my current resume in indd and pdf formats. So if you really want to copy it and make a clone of your own, go ahead! I'd kinda prefer if you didn't though. Anyways, have a great day!
+Nice seeing you here! This repo is mostly meant for me as a way of using version control to my resume building. The .pdf file is the exported resume and the .indd file is the Adobe InDesign source file.
+
+Have a great day!
